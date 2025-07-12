@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OTerator
-- 👀 I’m interested in Programming (beginner), looking forward to start a CS degree.
-- 🌱 I’m currently learning Java on udemy;
+- 👀 I’m a CS Student
+- 🌱 Learning Java on udemy;
 - 💞️ I’m looking to collaborate on ... whatever will come, I'm very open-minded, motivated & disciplined to collect experience and meet new people.
 - 📫 How to reach me: Discord - OTerator  
 - 😄 Gender: Male
